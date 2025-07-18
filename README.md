@@ -63,7 +63,7 @@ Compares revenue contribution from each customer.
 
 ![Total Revenue by Customer](image/total_revenue_by_customer.png)
 
----
+--
 
 ## 🔍 Key Insights
 
