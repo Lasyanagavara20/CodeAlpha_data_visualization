@@ -33,35 +33,35 @@ The dataset `sample_sales_data.csv` contains:
 ### 1. Total Revenue by Category
 Shows which product category generated the most revenue.
 
-![Total Revenue by Category](images/total_revenue_by_category.png)
+![Total Revenue by Category](image/total_revenue_by_category.png)
 
 ---
 
 ### 2. Daily Sales Trend
 Displays how sales changed over time.
 
-![Orders Over Time](images/orders_over_time.png)
+![Orders Over Time](image/orders_over_time.png)
 
 ---
 
 ### 3. Quantity Distribution by Customer
 Helps detect customer ordering patterns and outliers.
 
-![Quantity Distribution by Customer](images/quantity_distribution_by_customer.png)
+![Quantity Distribution by Customer](image/quantity_distribution_by_customer.png)
 
 ---
 
 ### 4. Correlation Heatmap
 Visualizes correlation between numerical features like Quantity and Total Amount.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](image/correlation_heatmap.png)
 
 ---
 
 ### 5. Total Revenue by Customer
 Compares revenue contribution from each customer.
 
-![Total Revenue by Customer](images/total_revenue_by_customer.png)
+![Total Revenue by Customer](image/total_revenue_by_customer.png)
 
 ---
 
